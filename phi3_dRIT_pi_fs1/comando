@@ -1,0 +1,1 @@
+nohup ../../anaconda3/envs/rit/bin/python3 respuestas_Ollama_all_corpus.py > salidaCorpus.txt &
